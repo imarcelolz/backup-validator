@@ -1,0 +1,6 @@
+psycopg2-binary==2.9.10
+click==8.1.8
+tqdm==4.67.1
+python-magic==0.4.27
+Pillow==11.1.0
+python-dotenv==1.0.1
